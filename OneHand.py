@@ -3,8 +3,6 @@ import mediapipe as mp
 import time
 import mouse
 from pynput.mouse import Button, Controller
-import pyautogui
-import sys
 
 cap = cv2.VideoCapture(0)
 
