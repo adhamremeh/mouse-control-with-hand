@@ -18,6 +18,7 @@
 4- Bend your ring finger hardly to right click the mouse.
 
 
+
 **( 1 )**
 
 ![](./Readme/Aspose.Words.183fa03c-9272-4a6f-a856-ba33539967db.002.png)
