@@ -18,8 +18,7 @@
 4- Bend your ring finger hardly to right click the mouse.
 
 
-![](./Readme/Aspose.Words.183fa03c-9272-4a6f-a856-ba33539967db.001.png)
-
+**( 1 )**
 ![](./Readme/Aspose.Words.183fa03c-9272-4a6f-a856-ba33539967db.002.png)
 
 
@@ -33,10 +32,8 @@
 
 
 
-
-![](./Readme/Aspose.Words.183fa03c-9272-4a6f-a856-ba33539967db.003.png)![](Aspose.Words.183fa03c-9272-4a6f-a856-ba33539967db.004.png)
-
-
+**( 2 )**
+![](Aspose.Words.183fa03c-9272-4a6f-a856-ba33539967db.004.png)
 
 
 
@@ -49,8 +46,7 @@
 
 
 
-![](./Readme/Aspose.Words.183fa03c-9272-4a6f-a856-ba33539967db.005.png)
-
+**( 3 )**
 ![](./Readme/Aspose.Words.183fa03c-9272-4a6f-a856-ba33539967db.006.png)
 
 
@@ -61,7 +57,6 @@
 
 
 
-
-
-![](./Readme/Aspose.Words.183fa03c-9272-4a6f-a856-ba33539967db.007.png)![](./Readme/Aspose.Words.183fa03c-9272-4a6f-a856-ba33539967db.008.png)
+**( 4 )**
+![](./Readme/Aspose.Words.183fa03c-9272-4a6f-a856-ba33539967db.008.png)
 
