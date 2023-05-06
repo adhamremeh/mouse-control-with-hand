@@ -2,10 +2,10 @@
 
 ﻿**Installations required**:
 
-- cv2 
-- mediapipe
-- time
-- mouse 
+- cv2  ->  `pip install cv2`
+- mediapipe  ->  `pip install mediapipe`
+- time  ->  `pip install time`
+- mouse  ->  `pip install mouse`
 
 **How to use**:
 
